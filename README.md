@@ -3,6 +3,8 @@ This is the pro version of [HM10 Bluetooth Serial](https://github.com/hoiberg/HM
 
 There are some changes compared to the last app store version as I was working on an update (most significantly, I added the possibility to configure alert sounds for received data) and I believe this update was pretty much done - but again, I'm not sure. The commit history has been removed for privacy reasons.
 
+Update: It is again on the App Store, made available by someone else: Link: https://apps.apple.com/nl/app/bleserial-hm-10/id1602239700 He also re-uploaded the lite version: https://apps.apple.com/nl/app/ble-serial-tiny/id1607862132
+
 ## App Store Description
 ```
 With this app you can control, test and debug projects that incorporate the HM10 Bluetooth UART module (or similar ones).
